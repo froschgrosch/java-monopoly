@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DBController
+comment1.params=
+comment1.target=DBController()
+comment2.params=
+comment2.target=void\ initDBConnection()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=s
+comment4.target=void\ executeUpdate(java.lang.String)
+comment5.params=q
+comment5.target=java.sql.ResultSet\ query(java.lang.String)
+numComments=6

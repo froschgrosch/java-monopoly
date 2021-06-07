@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=parser2
+comment1.params=
+comment1.target=parser2()
+comment2.params=filename
+comment2.target=java.lang.String\ convertToFileURL(java.lang.String)
+comment3.params=
+comment3.target=void\ startDocument()
+comment4.params=
+comment4.target=void\ endDocument()
+comment5.params=namespaceURI\ localName
+comment5.target=void\ startElement(java.lang.String,\ java.lang.String)
+numComments=6

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=XMLparser
+comment1.params=
+comment1.target=XMLparser()
+comment2.params=filename
+comment2.target=org.w3c.dom.Element\ getDocumentElement(java.lang.String)
+numComments=3

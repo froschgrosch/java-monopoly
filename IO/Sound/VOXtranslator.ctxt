@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=VOXtranslator
+comment1.params=
+comment1.target=VOXtranslator()
+comment2.params=number
+comment2.target=java.lang.String[]\ toStringArr(int)
+numComments=3

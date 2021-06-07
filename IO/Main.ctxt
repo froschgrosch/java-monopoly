@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=
+comment1.target=Main()
+comment2.params=number
+comment2.target=void\ sayNumber(int)
+comment3.params=filename
+comment3.target=void\ sayWord(java.lang.String)
+numComments=4
