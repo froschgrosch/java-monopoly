@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=
+comment1.target=Main()
+comment2.params=
+comment2.target=model.Spieler\ getSpielerAmZug()
+comment3.params=
+comment3.target=void\ kaufen()
+comment4.params=
+comment4.target=void\ zugBeenden()
+comment5.params=
+comment5.target=void\ ziehen()
+comment6.params=
+comment6.target=int\ feldKaufen()
+numComments=7

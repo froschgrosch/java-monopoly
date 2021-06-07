@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Karte
+comment1.params=t\ p1\ p2\ te\ n
+comment1.target=Karte(int,\ int,\ int,\ java.lang.String,\ int)
+comment2.params=t\ p1\ te\ n
+comment2.target=Karte(int,\ int,\ java.lang.String,\ int)
+comment3.params=t\ te\ n
+comment3.target=Karte(int,\ java.lang.String,\ int)
+comment4.params=
+comment4.target=int\ getType()
+comment5.params=
+comment5.target=int[]\ getParams()
+comment6.params=
+comment6.target=java.lang.String\ getText()
+numComments=7

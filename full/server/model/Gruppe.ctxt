@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Gruppe
+comment1.params=n\ h\ f\ _rgb
+comment1.target=Gruppe(int,\ int,\ java.lang.String,\ int[])
+comment2.params=
+comment2.target=int\ getNummer()
+comment3.params=
+comment3.target=java.lang.String\ getFarbName()
+comment4.params=
+comment4.target=int[]\ getFarbe()
+comment5.params=
+comment5.target=int\ getAnzahlHaeuser()
+numComments=6

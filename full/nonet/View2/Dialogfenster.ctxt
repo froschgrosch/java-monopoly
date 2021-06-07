@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Dialogfenster
+comment1.params=text
+comment1.target=Dialogfenster(java.lang.String)
+comment2.params=ae
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Writer
+comment1.params=
+comment1.target=Writer()
+comment2.params=filename\ text
+comment2.target=void\ write(java.lang.String,\ java.lang.String[])
+numComments=3
