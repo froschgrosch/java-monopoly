@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Spieler
+comment1.params=n\ fb\ fz
+comment1.target=Spieler(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getposition()
+comment3.params=
+comment3.target=int\ getgeld()
+comment4.params=g
+comment4.target=void\ setgeld(int)
+comment5.params=
+comment5.target=java.lang.String\ getname()
+numComments=6

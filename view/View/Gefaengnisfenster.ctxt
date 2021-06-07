@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Gefaengnisfenster
+comment1.params=co
+comment1.target=Gefaengnisfenster(Controller)
+comment2.params=
+comment2.target=void\ main()
+comment3.params=ae
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4
