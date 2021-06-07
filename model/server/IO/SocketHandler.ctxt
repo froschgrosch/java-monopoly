@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SocketHandler
+comment1.params=socket
+comment1.target=SocketHandler(java.net.Socket)
+comment2.params=
+comment2.target=java.lang.String\ read()
+comment3.params=message
+comment3.target=void\ write(java.lang.String)
+numComments=4

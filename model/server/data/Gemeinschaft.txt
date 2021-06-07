@@ -1,0 +1,16 @@
+4:0:0:Sie kommen aus dem Gefängnis frei! Behalten Sie diese Karte, bis Sie sie benötigen oder verkaufen.
+1:10:0:Sie haben Geburtstag. Jeder Spieler schenkt Ihnen 10.
+3:40:115:Sie werden zu Straßenausbesserungsarbeiten herangezogen. Zahlen Sie 40 je Haus und 115 je Hotel an die Bank.
+2:0:0:Gehen Sie in das Gefängnis. Begeben Sie sich direkt dorthin. Gehen Sie nicht über Los. Ziehen Sie nicht 200 ein.
+0:-50:0:Schulgeld. Zahlen Sie 50.
+0:100:0:Urlaubsgeld! Sie erhalten 100.
+0:100:0:Ihre Lebensversicherung wird fällig. Sie erhalten 100.
+0:-50:0:Arzt-Kosten. Zahlen Sie 50.
+0:20:0:Einkommenssteuerrückerstattung. Sie erhalten 20.
+0:-100:0:Krankenhausgebühren. Zahlen Sie 100.
+0:25:0:Sie erhalten auf Vorzugs-Aktien 7% Dividende: 25.
+0:100:0:Sie erben 100.
+0:50:0:Aus Lagerverkäufen erhalten Sie 50.
+0:10:0:Zweiter Preis im Schönheitswettbewerb. Sie erhalten 10.
+2:0:0:Rücken Sie vor bis auf Los. (Ziehe 200 ein).
+0:200:0:Bank-Irrtum zu Ihren Gunsten. Ziehen Sie 200 ein.

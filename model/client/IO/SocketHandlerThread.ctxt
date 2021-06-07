@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SocketHandlerThread
+comment1.params=_sh
+comment1.target=SocketHandlerThread(SocketHandler)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=java.lang.String\ read()
+comment4.params=message
+comment4.target=void\ write(java.lang.String)
+numComments=5
